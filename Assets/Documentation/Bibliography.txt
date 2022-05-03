@@ -1,0 +1,70 @@
+Animations:
+- GameOverTextChanging.anim    	Janay Hernandez
+- WinnerTextChanging.anim 	Janay Hernandez
+- TargetMoving.anim            	Josh Boltz
+- TargetRoundabout.anim        	Josh Boltz
+Arts:
+- Back_Button.png            	Jose Tiznado
+- PlaneBackground.png		Josh Boltz
+- TemporaryBackground2.png	Josh Boltz
+- SplashScreen.png			Josh Boltz
+- crosshairs.png            	Visdye Interactives*
+- Skyline.png                    Samara Brown
+Models:
+- Bow.dae                	Josh Boltz
+- Target.fbx                	Josh Boltz
+- Arrow.fbx                	Josh Boltz
+- block.dae                	https://kenney.nl/
+- bridge.dae                	https://kenney.nl/
+- chest.dae                	https://kenney.nl/
+- crate.dae                	https://kenney.nl/
+- crateStrong.dae            	https://kenney.nl/
+- fence.dae                	https://kenney.nl/
+- fenceBroken.dae            	https://kenney.nl/
+- fenceCorner.dae		https://kenney.nl/
+- flag.dae                	https://kenney.nl/
+- flowers.dae                	https://kenney.nl/
+- flowersLow.dae            	https://kenney.nl/
+- hedge.dae                	https://kenney.nl/
+- ladder.dae                	https://kenney.nl/
+- mushrooms.dae            	https://kenney.nl/
+- plant.dae                	https://kenney.nl/
+- platform.dae                	https://kenney.nl/
+- rocks.dae                	https://kenney.nl/
+- sign.dae                	https://kenney.nl/
+- tree.dae                	https://kenney.nl/
+- treePine.dae                	https://kenney.nl/
+Prefabs:
+- aim.prefab                	Samara Brown
+- explosion.prefab            	Jose Tiznado
+- Target.prefab                	Josh Boltz & Janay Hernandez & Jose Tiznado
+- Bow.prefab                	Josh Boltz
+- Arrow.prefab                	Josh Boltz
+Scenes:
+- CreditsScene                	All four of us
+- InstructionsScene            	All four of us
+- MainMenuScene            	All four of us
+- PlayerSelectionScene         	All four of us
+- PlayGameScene            	All four of us
+Scripts:
+- PlayerMovement.cs            	Jose Tiznado & Josh Boltz & Janay Hernandez
+- GameManager.cs            	Josh Boltz & Jose Tiznado
+- PlayerData.cs                	Josh Boltz
+- CountdownTimer.cs            	Josh Boltz
+- PlayerScore.cs            	Josh Boltz
+- Arrow.cs                	Josh Boltz & Samara Brown
+- AudioManager.cs				Samara Brown
+- TargetSpawner.cs            	Josh Boltz
+- Target.cs                	Josh Boltz & Janay Hernandez & Jose Tiznado
+Sounds:
+- OriginalBirdsSound.mp3        Janay Hernandez⁺
+- OriginalStepsSound.mp3        Janay Hernandez⁺
+- OriginalTargetHitSound.mp3	Janay Hernandez⁺
+- ButtonClick.mp3            		Samara Brown**
+Sprites:
+- Bow2D.png                	Josh Boltz
+- Arrow2D.png                Samara Brown
+
+* Link to Visdye Interactive: https://assetstore.unity.com/publishers/25148
+⁺ Recorded audio using built-in voice recorder in Android phone, Edited audio using AudioMass audio editor (link: https://audiomass.co/)
+** Button click sounds from: https://www.fesliyanstudios.com/royalty-free-sound-effects-download/video-game-menu-153
